@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iskandar Shahriman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer looking to transition deeper into the tech industry! </h3>
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
