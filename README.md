@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iskandar Shahriman</h1>
 <h3 align="center">A passionate full stack web developer looking to transition deeper into the tech industry!</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and Javascript**
+- 🌱 Proficient in **HTML, CSS, and Javascript**
 
 - 📫 How to reach me **shahriman.iskandar@gmail.com**
 
