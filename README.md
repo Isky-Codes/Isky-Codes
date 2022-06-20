@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shahriman.iskandar@gmail.com**
 
-- 🌐 You can find my website at [Personal Website](https://isky-codes.netlify.app/)
+- 🌐 You can find my website at [isky-codes.netlify.app/](https://isky-codes.netlify.app/)
 
 - ⚡ Fun fact **I am an avid cross-stitcher!**
 
